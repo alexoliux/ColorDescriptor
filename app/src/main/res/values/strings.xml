@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ColorDescriptor</string>
+    <string name="buttonFindDescription">Добавить цвет</string>
+
+    <string-array name="colors">
+        <item>Красный</item>
+        <item>Оранжевый</item>
+        <item>Желтый</item>
+        <item>Зеленый</item>
+        <item>Голубой</item>
+    </string-array>
+
+    <string-array name="description_of_temp">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+</resources>
